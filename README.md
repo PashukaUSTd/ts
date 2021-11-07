@@ -4,7 +4,7 @@
 ```
 npm install
 ```
-this is my project for learning Type Script.
+this is my project for learning Type Script language.
 ### Compiles and hot-reloads for development
 ```
 npm run serve
